@@ -1,0 +1,15 @@
+F:\Домашка\Practica_C#_007\Example_052\bin\Debug\net6.0\Example_052.exe
+F:\Домашка\Practica_C#_007\Example_052\bin\Debug\net6.0\Example_052.deps.json
+F:\Домашка\Practica_C#_007\Example_052\bin\Debug\net6.0\Example_052.runtimeconfig.json
+F:\Домашка\Practica_C#_007\Example_052\bin\Debug\net6.0\Example_052.dll
+F:\Домашка\Practica_C#_007\Example_052\bin\Debug\net6.0\Example_052.pdb
+F:\Домашка\Practica_C#_007\Example_052\obj\Debug\net6.0\Example_052.csproj.AssemblyReference.cache
+F:\Домашка\Practica_C#_007\Example_052\obj\Debug\net6.0\Example_052.GeneratedMSBuildEditorConfig.editorconfig
+F:\Домашка\Practica_C#_007\Example_052\obj\Debug\net6.0\Example_052.AssemblyInfoInputs.cache
+F:\Домашка\Practica_C#_007\Example_052\obj\Debug\net6.0\Example_052.AssemblyInfo.cs
+F:\Домашка\Practica_C#_007\Example_052\obj\Debug\net6.0\Example_052.csproj.CoreCompileInputs.cache
+F:\Домашка\Practica_C#_007\Example_052\obj\Debug\net6.0\Example_052.dll
+F:\Домашка\Practica_C#_007\Example_052\obj\Debug\net6.0\refint\Example_052.dll
+F:\Домашка\Practica_C#_007\Example_052\obj\Debug\net6.0\Example_052.pdb
+F:\Домашка\Practica_C#_007\Example_052\obj\Debug\net6.0\Example_052.genruntimeconfig.cache
+F:\Домашка\Practica_C#_007\Example_052\obj\Debug\net6.0\ref\Example_052.dll
